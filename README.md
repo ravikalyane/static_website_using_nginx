@@ -1,1 +1,1 @@
-# static_website_using_nginx
+# Serve static website using Nginx in Docker
